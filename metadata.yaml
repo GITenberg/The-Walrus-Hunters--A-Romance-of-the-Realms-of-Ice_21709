@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/333
     wikipedia: http://en.wikipedia.org/wiki/Robert_Michael_Ballantyne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21709#The-Walrus-Hunters--A-Romance-of-the-Realms-of-Ice
 gutenberg_bookshelf:
 - Native America
 - Children's Fiction
